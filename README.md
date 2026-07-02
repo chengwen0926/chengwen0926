@@ -1,16 +1,26 @@
-## Hi there 👋
+### Hi, I'm Libraone
 
-<!--
-**chengwen0926/chengwen0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer · AIGC content creator · Indie game developer
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**💻 Tech Stack**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+
+
+**📌 Currently**
+- 👾 &nbsp;Building a **personal digital avatar** via RL paradigm — an Agent that thinks and creates more like its host
+- 🔭 &nbsp;Exploring LLM applications and agent architectures
+- 🎬 &nbsp;Creating content with traditional 3D pipelines augmented by AIGC
+
+**🔗 Personal Link**
+
+[![RedNote](https://img.shields.io/badge/RedNote-FF2442?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek04IDE3bDEuNS03LjVMNiA4bDgtM0wxMiAxN0g4eiIvPjwvc3ZnPg==&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e18960600000000010009f7)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chengwen0926)
+
+<sub>// personal digital avatar · loading · · ·</sub>
