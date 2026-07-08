@@ -13,24 +13,26 @@ Full-stack developer · AIGC content creator · Indie game developer
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 
-**📌 Currently**
-- 👾 &nbsp;Building a **personal digital avatar** via RL paradigm — an Agent that thinks and creates more like its host
-- 🔭 &nbsp;Exploring LLM applications and agent architectures
-- 🎬 &nbsp;Creating content with traditional 3D pipelines augmented by AIGC
-
 **🔗 Personal Link**
 
 [![RedNote](https://img.shields.io/badge/RedNote-FF2442?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek04IDE3bDEuNS03LjVMNiA4bDgtM0wxMiAxN0g4eiIvPjwvc3ZnPg==&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e18960600000000010009f7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chengwen0926)
 
+**📌 Currently**
+- 👾 &nbsp;Building a **personal digital avatar** via RL paradigm — an Agent that thinks and creates more like its host
+- 🔭 &nbsp;Exploring LLM applications and agent architectures
+- 🎬 &nbsp;Creating content with traditional 3D pipelines augmented by AIGC
 
-## <div align="center">latest youtube videos</div>
+
+**🗓️ Recently**
 
 <p align="left">
-<a href="" title="Pixel-art Dota 2 hero portraits"><img src="https://github.com/chengwen0926/chengwen0926/assets/Wallpaper.png" width="300px" align="left" /></a>
-<a href="https://youtu.be/hAWpsIuem10" title="Dwell Time Analysis with Computer Vision | Real-Time Stream Processing"><strong>Dwell Time Analysis with Computer Vision | Real-Time Stream Processing</strong></a>
-<div><strong>Created: 5 Apr 2024</strong></div>
-<br/>Learn how to use computer vision to analyze wait times and optimize processes. This tutorial covers object detection, tracking, and calculating time spent in designated zones. Use these techniques to improve customer experience in retail, traffic management, or other scenarios.</p>
+<a href="" title="Pixel-art Dota 2 hero portraits"><img src="https://raw.githubusercontent.com/chengwen0926/chengwen0926/main/assets/Wallpaper.png" width="200px" align="left" hspace="16" /></a>
+<a title="Pixel-art Dota 2 hero portraits"><strong>Pixel-art Dota 2 hero portraits</strong></a>
+<div><strong>Finished: 26 Jun 2026</strong></div>
+<br/>从开始接触DOTA2到现在差不多10年的时间，这款游戏确实陪伴我走过很长的路，完成整个像素头像系列也算是对我自己内心热爱的一份答复。
+
+</p>
 
 <br/>
 
