@@ -27,8 +27,8 @@ Full-stack developer · AIGC content creator · Indie game developer
 **🗓️ Recently**
 
 <p align="left">
-<a href="" title="Pixel-art Dota 2 hero portraits"><img src="https://raw.githubusercontent.com/chengwen0926/chengwen0926/main/assets/Wallpaper.png" width="200px" align="left" hspace="16" /></a>
-<a title="Pixel-art Dota 2 hero portraits"><strong>Pixel-art Dota 2 hero portraits</strong></a>
+<a href="https://raw.githubusercontent.com/chengwen0926/chengwen0926/main/assets/Wallpaper.png" title="Pixel-Art Dota 2 Hero Portraits"><img src="https://raw.githubusercontent.com/chengwen0926/chengwen0926/main/assets/Wallpaper.png" width="240px" align="left" hspace="12" /></a>
+<a title="Pixel-Art Dota 2 Hero Portraits"><strong>Pixel-Art Dota 2 Hero Portraits</strong></a>
 <div><strong>Finished: 26 Jun 2026</strong></div>
 <br/>从开始接触DOTA2到现在差不多10年的时间，这款游戏确实陪伴我走过很长的路，完成整个像素头像系列也算是对我自己内心热爱的一份答复。
 
