@@ -23,4 +23,15 @@ Full-stack developer · AIGC content creator · Indie game developer
 [![RedNote](https://img.shields.io/badge/RedNote-FF2442?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek04IDE3bDEuNS03LjVMNiA4bDgtM0wxMiAxN0g4eiIvPjwvc3ZnPg==&logoColor=white)](https://www.xiaohongshu.com/user/profile/5e18960600000000010009f7)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/chengwen0926)
 
+
+## <div align="center">latest youtube videos</div>
+
+<p align="left">
+<a href="" title="Pixel-art Dota 2 hero portraits"><img src="https://github.com/chengwen0926/chengwen0926/assets/Wallpaper.png" width="300px" align="left" /></a>
+<a href="https://youtu.be/hAWpsIuem10" title="Dwell Time Analysis with Computer Vision | Real-Time Stream Processing"><strong>Dwell Time Analysis with Computer Vision | Real-Time Stream Processing</strong></a>
+<div><strong>Created: 5 Apr 2024</strong></div>
+<br/>Learn how to use computer vision to analyze wait times and optimize processes. This tutorial covers object detection, tracking, and calculating time spent in designated zones. Use these techniques to improve customer experience in retail, traffic management, or other scenarios.</p>
+
+<br/>
+
 <sub>// personal digital avatar · loading · · ·</sub>
