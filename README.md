@@ -22,6 +22,7 @@ Full-stack developer · AIGC content creator · Indie game developer
 - 👾 &nbsp;Building a **personal digital avatar** via RL paradigm — an Agent that thinks and creates more like its host
 - 🔭 &nbsp;Exploring LLM applications and agent architectures
 - 🎬 &nbsp;Creating content with traditional 3D pipelines augmented by AIGC
+- 🎮 &nbsp;Developing an indie game
 
 
 **🗓️ Recently**
