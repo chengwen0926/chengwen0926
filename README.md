@@ -1,5 +1,9 @@
 ### Hi, I'm Libraone
-![snake animation](https://raw.githubusercontent.com/chengwen0926/chengwen0926/workflows/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chengwen0926/chengwen0926/workflows/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chengwen0926/chengwen0926/workflows/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chengwen0926/chengwen0926/workflows/github-contribution-grid-snake.svg" />
+</picture>
 
 Full-stack developer · AIGC content creator · Indie game developer
 
